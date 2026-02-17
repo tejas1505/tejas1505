@@ -1,21 +1,10 @@
-# 👋 Hi, I'm Arun — Software Engineer | Systems & Backend Focus
+# 👋 Hi, I'm Tejas — Full Stack Developer | Systems & Backend Focus
 
 I build **scalable, production-grade software systems** with a strong focus on
 performance, reliability, and real-world usage.
 
 I enjoy working close to the system boundaries — APIs, databases, real-time communication,
 and infrastructure — where architectural decisions actually matter.
-
----
-
-## 📊 Engineering Impact
-
-- 🧱 Designed & shipped **15+ production systems**
-- 👥 Platforms supporting **10K+ active users**
-- ⚡ **<100ms latency** in real-time communication systems
-- 📈 **99.9% uptime** across deployed services
-- 🔄 Reduced operational overhead by **40–70%** through automation
-- 🧩 Built **multi-tenant & role-based** systems used by internal teams
 
 ---
 
@@ -47,24 +36,16 @@ and infrastructure — where architectural decisions actually matter.
 ## 🛠 Tech Stack (Hands-on)
 
 **Languages & Frameworks**
-- JavaScript / TypeScript
-- Node.js, Express
-- React, Next.js, Vite
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,vite" /> </p>
 
 **Databases & Storage**
-- PostgreSQL, MySQL
-- MongoDB
-- Redis (cache, pub/sub)
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /> </p>
 
 **Realtime & Messaging**
-- Socket.IO
-- WebRTC (Mediasoup, LiveKit)
+<p align="left"> <img src="https://skillicons.dev/icons?i=socketio" /> </p> <p align="left"> <img src="https://cdn.simpleicons.org/webrtc" height="48" /> <img src="https://cdn.simpleicons.org/docker" height="48" /> <!-- Mediasoup runs on Node --> </p>
 
 **Infra & DevOps**
-- Docker
-- Nginx
-- AWS / VPS
-- CI/CD pipelines
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions" /> </p>
 
 ---
 
@@ -79,26 +60,3 @@ and infrastructure — where architectural decisions actually matter.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🧩 How I Think About Engineering
-
-- Architecture before implementation
-- Measure performance, don’t guess
-- Prefer simple systems that scale
-- Clear data models > clever abstractions
-- Reliability is a feature
-
----
-
-## 📌 Current Interests
-
-- Distributed systems
-- Real-time communication at scale
-- Backend performance & observability
-- System design trade-offs
-
----
-
-> *I value code that is readable, systems that are predictable,  
-> and decisions that hold up under scale.*
