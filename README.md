@@ -42,7 +42,7 @@ and infrastructure — where architectural decisions actually matter.
 <p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /> </p>
 
 **Realtime & Messaging**
-<p align="left"> <img src="https://skillicons.dev/icons?i=socketio" /> </p> <p align="left"> <img src="https://cdn.simpleicons.org/webrtc" height="48" /> <img src="https://cdn.simpleicons.org/docker" height="48" /> <!-- Mediasoup runs on Node --> </p>
+<p align="left"> <img src="https://socket.io/images/logo.svg" /> </p> <p align="left"> <img src="https://cdn.simpleicons.org/webrtc" height="48" /> <img src="https://cdn.simpleicons.org/docker" height="48" /> <!-- Mediasoup runs on Node --> </p>
 
 **Infra & DevOps**
 <p align="left"> <img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions" /> </p>
@@ -52,11 +52,11 @@ and infrastructure — where architectural decisions actually matter.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas1505&show_icons=true&count_private=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas1505&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas1505&layout=compact&theme=tokyonight" />
 </p>
 
