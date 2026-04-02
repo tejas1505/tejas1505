@@ -8,7 +8,7 @@ and infrastructure — where architectural decisions actually matter.
 
 ---
 
-## 🧠 Areas of Work
+## Areas of Work
 
 ### Backend & System Design
 - REST & event-driven APIs
@@ -53,7 +53,19 @@ and infrastructure — where architectural decisions actually matter.
 
 ---
 
-## 📈 GitHub Analytics
+## My Packages & Libraries
+
+I build reusable tools that solve real-world backend and real-time system challenges.
+
+### redis-dev-panel
+- Zero-install CLI for Redis Dev Panel. Run with npx — no global install needed.
+- Launch a full visual Redis debugger from your terminal in one command. No installation, no config files, no Docker.
+- Tech: Node.js, Redis, Socket.IO, Typescript, Express
+- NPM: <a href="https://www.npmjs.com/package/@redis-dev-panel/cli" _target='blank'>redis-dev-panel</a>
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas1505" />
