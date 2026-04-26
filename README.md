@@ -4,7 +4,7 @@ I build **scalable, production-grade software systems** with a strong focus on
 performance, reliability, and real-world usage.
 
 I enjoy working close to the system boundaries — APIs, databases, real-time communication,
-and infrastructure — where architectural decisions actually matter.
+and infrastructure, where architectural decisions actually matter.
 
 ---
 
